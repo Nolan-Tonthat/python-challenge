@@ -1,6 +1,7 @@
 # python-challenge
 UCB Data Analytics - Module 3 Python Challenge
 
+I felt that PyBank was super tough for me only to find out I had to change one character for my code to work completely fine.  However, PyPoll was much much easier for me!  I even  felt that I had fun making PyPoll as well.  I do believe that I overcomplicated things with PyPoll though.
 
 **Before You Begin**
 
